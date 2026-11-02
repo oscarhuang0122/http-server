@@ -1,0 +1,22 @@
+# Executables
+http_server
+*.exe
+
+# Object and dependency files
+*.o
+*.d
+
+# Build directories
+build/
+bin/
+obj/
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+
+# Core dumps
+core
+core.*
